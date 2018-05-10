@@ -3,5 +3,5 @@
 printf("Hello ilyass !!");
 
 output: sorry im  programmer i have no life 
-i like linux i program sous linux et windows
-Masters C,C++,C#,java,Andriod,php,css,html,javascript,linux OS,Administration reseau sous-linux et windows
+i like linux. I master shell,c,c++,java,python,php,javascript,kootlin,android,html,css,sql,network and
+system programming.
